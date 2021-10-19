@@ -1,3 +1,4 @@
 Digite o seu nome
 Digite a sua senha
 Digite a sua idade
+Digite a seu RG
